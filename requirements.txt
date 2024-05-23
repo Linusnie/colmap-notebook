@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+pycolmap
+trimesh
+blender-notebook
+blender-plots
+bpy
+ipympl
+ipykernel
+ipywidgets
+git+https://github.com/Linusnie/python-utils

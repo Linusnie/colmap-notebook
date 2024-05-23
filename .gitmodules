@@ -1,0 +1,3 @@
+[submodule "navi"]
+	path = navi
+	url = ./navi
